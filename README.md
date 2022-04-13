@@ -1,5 +1,7 @@
-# Myapp
+# TicTacToe
 
+Check out the application hosted on firebase at: https://angular-tictactoe-76eb1.web.app/
+It is also downloadable as a progressive web app!
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
 ## Development server

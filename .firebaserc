@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-tictactoe-76eb1"
+  },
+  "targets": {
+    "angular-tictactoe-76eb1": {
+      "hosting": {
+        "myapp": [
+          "angular-tictactoe-76eb1"
+        ]
+      }
+    }
+  }
+}
